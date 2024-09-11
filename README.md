@@ -3,20 +3,13 @@ Project run successfully
 # Flor
 Este repositório contém exemplos e tutoriais para as tecnologias da web HTML, CSS e Js 
 
-### Downlode Source code from github
-Using This : 
+ ### Fazer o download do código-fonte do github: 
 
 ```
 https://github.com/carolinalima874/flor.git
 ```
 
-### Downlode Ruby 
-Downlode Ruby for the SCSS
-```
-npm i -g scss
-```
-
-### Map SCSS file with HTML
+### Mapear arquivo CSS com HTML
 
 ```
 video de referencia 
