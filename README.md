@@ -1,7 +1,7 @@
 Project run successfully
 
 # Flor
-Este repositório contém exemplos e tutoriais para as tecnologias da web HTML, CSS e Js
+Este repositório contém exemplos e tutoriais para as tecnologias da web HTML, CSS e Js 
 
 ### Downlode Source code from github
 Using This : 
@@ -19,7 +19,8 @@ npm i -g scss
 ### Map SCSS file with HTML
 
 ```
-Follow Youtube Video For map scss file with html
+video de referencia 
+Siga o vídeo do Youtube para obter o arquivo scss do mapa com html
 ```
 <a href="https://www.youtube.com/watch?v=ihAfDhTkMsQ&t=0s">
   <img src="https://static.vecteezy.com/system/resources/previews/018/930/572/non_2x/youtube-logo-youtube-icon-transparent-free-png.png" alt="YouTube Logo" width="80">
